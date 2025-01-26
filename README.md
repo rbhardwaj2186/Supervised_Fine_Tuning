@@ -1,6 +1,9 @@
 Supervised Fine-Tuning (SFT) for Sentiment Analysis
 Overview
 
+
+![fb9d0144-3952-42db-8382-8e2eb37d917e_1670x640](https://github.com/user-attachments/assets/8572789f-56ca-4541-8e7d-2e486d9f4373)
+
 This project demonstrates Supervised Fine-Tuning (SFT) of a pre-trained DistilBERT model (distilbert-base-uncased) on the IMDB movie review dataset for binary sentiment classification (positive or negative). The SFT process adapts a general-purpose language model to perform a specialized task with high accuracy.
 Objective
 
