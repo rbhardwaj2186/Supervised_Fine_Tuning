@@ -103,4 +103,4 @@ Future Enhancements
 
 Contact
 
-For questions or feedback, please contact [Your Name] at [Your Email].
+For questions or feedback, please contact [Rakshit Bhardwaj] at [rbhardwaj2186@gmail.com].
